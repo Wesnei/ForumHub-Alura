@@ -106,8 +106,4 @@
 <img src="/assets/topicos.png" alt="Imagem tópicos">
 
 ## 👨‍💻 Autor
-
-| [<img src="https://avatars.githubusercontent.com/u/101032822?v=4" width=115><br><sub>Wesnei Paiva</sub>](https://github.com/Wesnei) |
-| :---: |
-| Contato: `wesneipaiva@gmail.com` |
-| [GitHub](https://github.com/Wesnei) |
+Contato: `wesneipaiva@gmail.com` 
